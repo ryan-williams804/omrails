@@ -4,13 +4,8 @@ gem 'rails', '3.2.1'
 gem 'jquery-rails'
 gem 'devise'
 
-group :production do
-	gem 'pg'
-end
+gem 'sqlite3'
 
-group :development, :test do
-	gem 'sqlite3'
-end
 
 group :assets do
   gem 'sass-rails',   '~> 3.2.3'
