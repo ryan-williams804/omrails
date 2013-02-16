@@ -61,11 +61,8 @@ GEM
       treetop (~> 1.4.8)
     mime-types (1.21)
     multi_json (1.5.0)
-<<<<<<< HEAD
     orm_adapter (0.4.0)
     pg (0.13.1-x86-mingw32)
-=======
->>>>>>> parent of 957a0bc... Added pg gem for heroku
     polyglot (0.3.3)
     rack (1.4.5)
     rack-cache (1.2)
